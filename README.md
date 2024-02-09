@@ -2,6 +2,10 @@
 
 _Este é um jogo simples desenvolvido em JavaScript onde o jogador tenta adivinhar um número secreto entre 1 e 10._
 
+![image](https://github.com/igorlima92/numero_secreto/assets/98646614/65a82318-c2eb-4344-8237-f8552ee39bfb)
+
+
+
 _**Como Jogar**_  <br>
 1 - Abra o jogo no seu navegador. <br>
 2 - Escolha um número entre 1 e 10. <br>
