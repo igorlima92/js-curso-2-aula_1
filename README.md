@@ -3,7 +3,7 @@
 _Este é um jogo simples desenvolvido em JavaScript onde o jogador tenta adivinhar um número secreto entre 1 e 10._
 
 _**Como Jogar**_
-1 - Abra o jogo no seu navegador.
+1 - Abra o jogo no seu navegador. <br>
 2 - Escolha um número entre 1 e 10.
 3 - Insira o seu palpite no campo de entrada.
 4 - Pressione o botão "Chutar".
